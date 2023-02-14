@@ -1,1 +1,2 @@
-HI Nico
+#!/bin/bash
+echo Hellp, World
